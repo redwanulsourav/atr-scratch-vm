@@ -1,0 +1,11 @@
+node_modules/
+npm-*
+/.nyc_output
+/coverage
+
+/build
+/dist
+/.opt-in
+
+/translations
+/locale
